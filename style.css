@@ -1,0 +1,28 @@
+html{
+    font-size: 100%;
+}
+body{
+    font-size: 1.3rem !important;
+}
+
+.homepic {
+    width: 50rem;
+}
+
+.mkdf-page-footer .mkdf-footer-top-holder {
+    margin-top: 2rem;
+}
+
+.mkdf-parallax-row-holder{
+    background-size: 100%;
+    background-position: center;
+
+}
+
+.mkdf-section-title-holder .mkdf-st-title{
+    margin-top: 7rem !important;
+}
+
+.icon_menu:before{
+    content: none !important;
+}
